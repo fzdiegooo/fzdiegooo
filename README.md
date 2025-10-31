@@ -11,17 +11,10 @@
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=nextjs,angular,express,nestjs,docker,supabase,mongodb,postgres,git,typescript,nodejs&theme=light)](https://skillicons.dev)
 
----
-
 ## Links
-<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
-     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Portfolio**](https://diegobulnes.vercel.app)
-- [**Contact**](mailto:diegobulnesr@gmail.com)
-
 <a href="https://www.linkedin.com/in/diegobulnesr/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/fzdiegooo/" target="blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+<a href="mailto:diegobulnesr@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
