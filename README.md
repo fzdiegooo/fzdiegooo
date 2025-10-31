@@ -9,7 +9,7 @@
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=nextjs,angular,express,nestjs,docker,supabase,mongodb,postgres,git,typescript,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,angular,express,nestjs,docker,supabase,mongodb,postgres,git,typescript,nodejs&theme=dark)](https://skillicons.dev)
 
 ## Links
 <a href="https://www.linkedin.com/in/diegobulnesr/" target="blank">
